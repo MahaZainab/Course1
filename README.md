@@ -1,7 +1,7 @@
-# Machine Learning Resources and RoadMap
+# Course Resources and RoadMap
 
 ## Overview
-This guide aims to provide a structured path for learning Machine Learning, covering fundamental mathematics, programming skills, machine learning algorithms, data preprocessing, and libraries. It also suggests resources for practical exercises and further learning.
+This guide aims to provide a structured path for course, covering fundamental mathematics, programming skills, course algorithms, data preprocessing, and libraries. It also suggests resources for practical exercises and further learning.
 
 ## Table of Contents
 1. [Mathematics Foundations](#mathematics-foundations)
